@@ -1,35 +1,26 @@
 ```yaml
-name: Piyush Malhotra
-located_in: Montreal, Quebec
+name: Atakan Eliz
+located_in: Bandırma, Türkiye
 current_job: Full Stack Developer
 education:
   [
+    "Dokuz Eylül University - Economics",
     "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
   ]
-company: Soulber
+company: Moobile Yazılım Şirketi
 
 fields_of_interests:
   [
     "Web Development",
-    "Data Science",
-    "Machine Learning",
     "UI/UX",
-    "Game Development",
-    "DevOps",
-  ]
-technical_background:
-  [
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "New Techs",
+    "Full-Stack Development",
+    "Other cool tech stuff,"
   ]
   
-currently_learning: ["Docker, Kubernetes and React Native"]
-2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+currently_learning: ["Nextjs,MongoDB,React, React Native"]
+2022 Goals: ["Writing code every weekday and pushing my own limits"]
+hobbies: ["Gaming", "Code", "TV-Series", "Movies", "Music"]
 ```
   
 ---  
