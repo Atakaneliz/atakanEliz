@@ -1,4 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
 ```yaml
+{
 name: Atakan Eliz
 located_in: Bandırma, Türkiye
 current_job: Full Stack Developer
@@ -21,6 +26,7 @@ fields_of_interests:
 currently_learning: ["Nextjs,MongoDB,React, React Native"]
 2022 Goals: ["Writing code every weekday and pushing my own limits"]
 hobbies: ["Gaming", "Code", "TV-Series", "Movies", "Music"]
+}
 ```
   
 ---  
