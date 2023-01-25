@@ -9,8 +9,8 @@ located_in: Bandırma, Türkiye
 current_job: Full Stack Developer
 education:
   [
-    "Dokuz Eylül University - Economics",
     "Self-Taught Developer and Designer",
+    "Dokuz Eylül University - Economics",
   ]
 company: Moobile Yazılım Şirketi
 
@@ -23,22 +23,22 @@ fields_of_interests:
     "Other cool tech stuff,"
   ]
   
-currently_learning: ["Nextjs,MongoDB,React, React Native"]
-2022 Goals: ["Writing code every weekday and pushing my own limits"]
-hobbies: ["Gaming", "Code", "TV-Series", "Movies", "Music"]
+currently_learning: ["Nextjs, MongoDB, React, React Native"]
+2023 Goals: ["Writing code every weekday and pushing my own limits"]
+hobbies: ["Gaming", "Code", "TV-Series", "Movies", "Music", "Spend time with friends"]
 }
 ```
   
 ---  
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools (in progress) :</h3>
 <p align="left"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
@@ -55,18 +55,3 @@ hobbies: ["Gaming", "Code", "TV-Series", "Movies", "Music"]
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=atakaneliz)  
 
 
-
-<!--
-**Atakaneliz/atakanEliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
