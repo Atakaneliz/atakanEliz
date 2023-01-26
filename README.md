@@ -4,15 +4,16 @@
 
 ```yaml
 {
-name: Atakan Eliz
-located_in: Bandırma, Türkiye
-current_job: Full Stack Developer
+name: "Atakan Eliz",
+located_in: "Bandırma, Türkiye",
+current_job: "Full Stack Developer",
+personal_website: "atakaneliz.com",
 education:
   [
     "Self-Taught Developer and Designer",
     "Dokuz Eylül University - Economics",
-  ]
-company: Moobile Yazılım Şirketi
+  ],
+company: "Moobile Yazılım Şirketi",
 
 fields_of_interests:
   [
@@ -21,10 +22,10 @@ fields_of_interests:
     "New Techs",
     "Full-Stack Development",
     "Other cool tech stuff,"
-  ]
+  ],
   
-currently_learning: ["Nextjs, MongoDB, React, React Native"]
-2023 Goals: ["Writing code every weekday and pushing my own limits"]
+currently_learning: ["Nextjs, MongoDB, React, React Native"],
+2023 Goals: ["Writing code every weekday and pushing my own limits"],
 hobbies: ["Gaming", "Code", "TV-Series", "Movies", "Music", "Spend time with friends"]
 }
 ```
