@@ -24,7 +24,7 @@ fields_of_interests:
     "Other cool tech stuff,"
   ],
   
-currently_learning: ["Nextjs, MongoDB, React, React Native"],
+currently_learning: ["Nextjs, MongoDB, PostgreSQL, React, React Native"],
 2023 Goals: ["Writing code every weekday and pushing my own limits"],
 hobbies: ["Gaming", "Code", "TV-Series", "Movies", "Music", "Spend time with friends"]
 }
