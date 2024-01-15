@@ -25,7 +25,8 @@ fields_of_interests:
   ],
   
 currently_learning: ["Nextjs, MongoDB, PostgreSQL, React, React Native"],
-2023 Goals: ["Writing code every weekday and pushing my own limits"],
+2023 Goals: ["Writing code every weekday and pushing my own limits"] DONE!,
+2024 Goals: `${2023_goals}`,
 hobbies: ["Gaming", "Code", "TV-Series", "Movies", "Music", "Spend time with friends"]
 }
 ```
