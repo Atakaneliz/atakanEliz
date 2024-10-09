@@ -6,14 +6,14 @@
 {
 name: "Atakan Eliz",
 located_in: "Bandırma, Türkiye",
-current_job: "Full Stack Developer",
+preferred_title: "Full Stack Developer",
 personal_website: "atakaneliz.com",
 education:
   [
     "Self-Taught Developer and Designer",
     "Dokuz Eylül University - Economics",
   ],
-company: "Moobile Yazılım Şirketi",
+company: null //TODO:Fix,
 
 fields_of_interests:
   [
